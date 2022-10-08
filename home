@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="ucf-8/>
+      <title>SJ's Blog</title>
+      <meta name="my bloggy blog"/>
+    </head>
+    <body>
+      <div class="layout">
+        <div class="header">
+          <h1>SJ's Blog<i>!</i>
+        </div>
+        <div class="main">
+          <h3>Posts<i>!</i></h3>
+          <a href="">My Favorite Music</a>
+        </div>
+        <div class="sidebar>
+          <h3>About Me<i>!</i></h3>
+          <ul>
+            <li>17</li>
+            <li>Libra</li>
+            <li>Interest: CompSci</li>
+            <ul>Favs
+              <li>Pokemon Go</li>
+              <li>Dragonvale</li>
+              <li>Stickers</li>
+              <li>Fashion</li>
+            </ul>
+          </ul>
+        </div>
+        <div class="footer">
+          <h2>Thanks for reading<i>!</i></h2>
+        </div>
+      </div>
+    </body>
+  </html>
