@@ -8,7 +8,7 @@
     "ft ft";
   width: 900px;
   height: 900px;
-  justify-content: center;
+  marginset: 1fr;
 }
 
 .fmt{
@@ -32,6 +32,7 @@
 
 .header{
   grid-area: hd;
+  
 }
 
 .main{
