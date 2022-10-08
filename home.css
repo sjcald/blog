@@ -1,7 +1,7 @@
 .layout{
   display: grid;
-  grid-template-columns: 600px 1fr;
-  grid-template-rows: 100px 1fr 40px;
+  grid-template-columns: 1fr 150px;
+  grid-template-rows: 100px 1fr 60px;
   grid-template-areas:
     "hd hd"
     "mn sb"
@@ -9,8 +9,20 @@
 }
 
 .fmt{
-  background: #9ed5ff;
+  background: #d6f8ff;
   border: 2px solid #ffffff;
+  color: #0a1c57;
+  font-family: 'Neucha', cursive;
+}
+
+.cent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left{
+  display: flex;
 }
 
 .header{
