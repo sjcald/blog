@@ -1,0 +1,30 @@
+.layout{
+  display: grid;
+  grid-template-rows: 600px 1fr;
+  grid-template-columns: 100px 1fr 40px;
+  grid-template-areas:
+    "hd hd"
+    "mn sb"
+    "ft ft";
+}
+
+.fmt{
+  background=color: #9ed5ff;
+  border: #ffffff;
+}
+
+.header{
+  grid-area: hd;
+}
+
+.main{
+  grid-area: mn;
+}
+
+.sidebar{
+  grid-area: sb;
+}
+
+.footer{
+  grid-area: ft;
+}
