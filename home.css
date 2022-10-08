@@ -7,7 +7,9 @@
     "mn sb"
     "ft ft";
   width: 900px;
-  height: 1500px;
+  height: 900px;
+  justify-content: center;
+  align-items: center;
 }
 
 .fmt{
