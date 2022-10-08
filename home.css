@@ -27,6 +27,8 @@
 
 .left{
   display: flex;
+  justify-content: top;
+  align-items: left;
 }
 
 .header{
