@@ -8,6 +8,7 @@
     "ft ft";
   width: 900px;
   height: 900px;
+  justify-content
 }
 
 .fmt{
@@ -25,8 +26,8 @@
 
 .left{
   display: flex;
-  justify-content: top;
-  align-items: left;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 .header{
