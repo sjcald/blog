@@ -1,0 +1,30 @@
+nav{
+  display: flex;
+  align-items: flex-end;
+  padding-left: 5px;
+}
+
+nav a{
+  font-family: 'Neucha', cursive;
+  background: #ffffff;
+  text-decoration: none;
+  font-size: 15px;
+  color: #4d003c;
+  line-height: 20px;
+  margin-inline: 2px;
+  padding-inline: 5px;
+  height: 20px;
+}
+
+.bar{
+  display: flex;
+  flex-direction: row;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 0px;
+  background: #ffdef8;
+  border: 2px solid #ffffff;
+  height: 25px;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
