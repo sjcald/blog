@@ -1,0 +1,13 @@
+.layout{
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  grid-template-areas:
+    "hd"
+    "mn"
+    "sb"
+    "ft";
+  max-width: 500px;
+  margin: auto;
+  height: 80%;
+  margin-top: 0px;
+}
