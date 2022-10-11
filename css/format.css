@@ -1,0 +1,35 @@
+.fmt1{
+  background: #d6f8ff;
+  border: 2px solid #ffffff;
+  color: #0a1c57;
+  font-family: 'Neucha', cursive;
+  padding: 10px;
+}
+
+.fmt2{
+  background: #ffdef8;
+  border: 2px solid #ffffff;
+  color: #4d003c;
+  font-family: 'Neucha', cursive;
+  padding: 10px;
+}
+
+.cent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.col{
+  flex-direction: column;
+}
+
+.row{
+  flex-direction: row;
+}
